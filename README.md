@@ -12,4 +12,5 @@
 ## Contact:
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>](https://t.me/zeezaavr)
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>](https://discordapp.com/users/122830393245171712)
+[<img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"/>](https://steamcommunity.com/id/zeezaaVR/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:me@zeezaa.me/)
