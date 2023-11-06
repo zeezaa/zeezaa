@@ -22,6 +22,8 @@
 [<img alt="MySQL" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTAgMEMyMiAwIDAgMyAwIDd2MjJjMCA0IDIyIDcgNTAgN3M1MC0zIDUwLTdWN2MwLTQtMjItNy01MC03em0wIDQ2Yy0yOCAwLTUwLTMtNTAtN3YyMmMwIDQgMjIgNyA1MCA3czUwLTMgNTAtN1YzOWMwIDQtMjIgNy01MCA3em0wIDMyYy0yOCAwLTUwLTMtNTAtN3YyMmMwIDQgMjIgNyA1MCA3czUwLTMgNTAtN1Y3MWMwIDQtMjIgNy01MCA3eiIvPjwvc3ZnPg==" />]()
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
 
+[<img alt="Batch" src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+
 ## Contact:
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>](https://t.me/zeezaavr)
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>](https://discordapp.com/users/122830393245171712)
