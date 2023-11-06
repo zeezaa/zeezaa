@@ -5,8 +5,8 @@
 
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
 [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.zeezaa.me/logos/sxcdark.png">
-    <img height="28px" src="https://www.zeezaa.me/logos/sxclight.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.zeezaa.me/logos/sxcdarksmol.png">
+    <img height="28px" src="https://www.zeezaa.me/logos/sxclightsmol.png">
 </picture>](https://youtu.be/JojwHc1MKag?si=6wudueCCPB7AF9cB&t=181)
 
 ## Skillz:
