@@ -4,10 +4,12 @@
 - Currently working on: Card Games and VR Worlds.
 
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
-[<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.zeezaa.me/logos/sxcdarksmol.png">
-    <img height="28px" src="https://www.zeezaa.me/logos/sxclightsmol.png">
-</picture>](https://youtu.be/JojwHc1MKag?si=6wudueCCPB7AF9cB&t=181)
+<a href="https://youtu.be/JojwHc1MKag?si=6wudueCCPB7AF9cB&t=181" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.zeezaa.me/logos/sxcdarksmol.png">
+        <img height="28px" src="https://www.zeezaa.me/logos/sxclightsmol.png">
+    </picture>
+</a>
 
 ## Skillz:
 [<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />](https://unity.com/) : 
