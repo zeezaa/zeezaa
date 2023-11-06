@@ -1,5 +1,6 @@
 ### Hey! it me, zeezaa.
-- Interested in Game Design and Development.
+- What I do best: Gameplay and Level Design, Project Management.
+- Interested in: Game Design and Software Development.
 - Currently working on: Card Games and VR Worlds.
 
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
