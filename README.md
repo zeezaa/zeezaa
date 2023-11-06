@@ -4,6 +4,7 @@
 - Currently working on: Card Games and VR Worlds.
 
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
+[<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=youtube&logoColor=0d1117"/>](https://www.youtu.be/JojwHc1MKag)
 
 ## Skillz:
 [<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />](https://unity.com/) : 
