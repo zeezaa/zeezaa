@@ -1,7 +1,7 @@
 ### Hey! it me, zeezaa.
 - What I do best: Gameplay and Level Design, Project Management.
 - Interested in: Game Design and Software Development.
-- Currently working on: Arcade, Card Games and VR Worlds.
+- Currently working on: Minecraft Mod Pack, Roblox Experiences, Arcade, Card Games and VR Worlds.
 
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
 [<picture>
