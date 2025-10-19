@@ -3,6 +3,7 @@
 - Interested in: Game Design and Software Development.
 - Currently working on: VR Worlds, 3D Modeling and Roblox Experiences.
 
+[<img alt="Website" src="https://custom-icon-badges.demolab.com/badge/Website-blue?style=for-the-badge&logo=globe&logoColor=white"/>](https://zeezaa.me)
 [<img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>](https://zeezaa.itch.io)
 [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.zeezaa.me/logos/sxcdarksmol.png">
@@ -38,7 +39,9 @@
 [<img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=fff" />](https://fedoraproject.org/)
 
 [<img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />](https://www.blender.org/)
-[<img alt="MagicaVoxel" src="https://img.shields.io/badge/MagicaVoxel-E87D0D?style=for-the-badge&logo=magicavoxel&logoColor=white" />](https://ephtracy.github.io/index.html?page=mv_main)
+[<img alt="MagicaVoxel" src="https://custom-icon-badges.demolab.com/badge/MagicaVoxel-375a7f?style=for-the-badge&logo=magicavoxel&logoColor=white" />](https://ephtracy.github.io/index.html?page=mv_main)
+
+OBS, Sony Vegas
 
 <details>
 <summary>Rusty</summary>
@@ -61,6 +64,8 @@
 [<img alt="Open WebUI" src="https://custom-icon-badges.demolab.com/badge/Open WebUI-fff?style=for-the-badge&logo=openwebui&logoColor=white" />](https://docs.openwebui.com/)
 [<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" />](https://ollama.com/)
 [<img alt="Automatic1111" src="https://custom-icon-badges.demolab.com/badge/Automatic1111-fff?style=for-the-badge&logo=automatic1111&logoColor=000" />](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+DaVinci Resolve
 
 </details>
 
