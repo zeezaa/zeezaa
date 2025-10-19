@@ -19,7 +19,7 @@
 [<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 [<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>](https://jquery.com/)
 
-#### Ready to Relearn:
+#### Ready to (Re)learn:
 [<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />](https://www.unrealengine.com/en-US):
 [<img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-137CBD?style=for-the-badge&logo=blueprint&logoColor=white" />](https://dev.epicgames.com/documentation/en-us/unreal-engine/introduction-to-blueprints-visual-scripting-in-unreal-engine)
 [<img alt="Verse" src="https://img.shields.io/badge/Verse-0E1128?style=for-the-badge&logo=fortnite&logoColor=white" />](https://dev.epicgames.com/documentation/en-us/uefn/programming-with-verse-in-unreal-editor-for-fortnite)
