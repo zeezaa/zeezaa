@@ -34,7 +34,7 @@
 [<img alt="SQL" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTAgMEMyMiAwIDAgMyAwIDd2MjJjMCA0IDIyIDcgNTAgN3M1MC0zIDUwLTdWN2MwLTQtMjItNy01MC03em0wIDQ2Yy0yOCAwLTUwLTMtNTAtN3YyMmMwIDQgMjIgNyA1MCA3czUwLTMgNTAtN1YzOWMwIDQtMjIgNy01MCA3em0wIDMyYy0yOCAwLTUwLTMtNTAtN3YyMmMwIDQgMjIgNyA1MCA3czUwLTMgNTAtN1Y3MWMwIDQtMjIgNy01MCA3eiIvPjwvc3ZnPg==" />](https://en.wikipedia.org/wiki/SQL)
 
 <details>
-<summary>Interested to Learn</summary>
+<summary>Would Like to Learn</summary>
     
 [<img alt="HLSL" src="https://img.shields.io/badge/HLSL-80bb01?style=for-the-badge&logo=hlsl&logoColor=white" />](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
 [<img alt="GLSL" src="https://img.shields.io/badge/GLSL-5487b2?style=for-the-badge&logo=glsl&logoColor=white" />](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
