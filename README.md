@@ -29,6 +29,9 @@
 
 [<img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />](https://www.gimp.org/)
 [<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
+[<img alt="Vegas Pro" src="https://custom-icon-badges.demolab.com/badge/Vegas Pro-000?style=for-the-badge&logo=vegas_pro_21_logo&logoColor=white" />](https://www.vegascreativesoftware.com/us/vegas-pro/)
+[<img alt="OBS Studio" src="https://custom-icon-badges.demolab.com/badge/OBS Studio-1c2b71?style=for-the-badge&logo=obs_studio_logo&logoColor=white" />](https://obsproject.com/)
+
 
 #### Basic:
 [<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />](https://www.unrealengine.com/en-US):
@@ -40,8 +43,6 @@
 
 [<img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />](https://www.blender.org/)
 [<img alt="MagicaVoxel" src="https://custom-icon-badges.demolab.com/badge/MagicaVoxel-375a7f?style=for-the-badge&logo=magicavoxel&logoColor=white" />](https://ephtracy.github.io/index.html?page=mv_main)
-
-OBS, Sony Vegas
 
 <details>
 <summary>Rusty</summary>
@@ -65,18 +66,18 @@ OBS, Sony Vegas
 [<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" />](https://ollama.com/)
 [<img alt="Automatic1111" src="https://custom-icon-badges.demolab.com/badge/Automatic1111-fff?style=for-the-badge&logo=automatic1111&logoColor=000" />](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-DaVinci Resolve
+[<img alt="DaVinci Resolve" src="https://custom-icon-badges.demolab.com/badge/DaVinci Resolve-000?style=for-the-badge&logo=davinci_resolve&logoColor=white" />](https://www.vegascreativesoftware.com/us/vegas-pro/)
 
 </details>
 
 <details>
 <summary>Would Like to Learn</summary>
 
-[<img alt="Shaders" src="https://img.shields.io/badge/🎆 Shaders-80bb01?style=for-the-badge&logoColor=white" />](https://en.wikipedia.org/wiki/Shader)
+[<img alt="Shaders" src="https://custom-icon-badges.demolab.com/badge/Shaders-80bb01?style=for-the-badge&logo=bmrt-cornell_box&logoColor=white" />](https://en.wikipedia.org/wiki/Shader)
 [<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />](https://www.rust-lang.org/)
 [<img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://nodejs.org/en)
 [<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />](https://react.dev/)
-[<img alt="Cybersecurity" src="https://img.shields.io/badge/🛡️ Cybersecurity-f20e0e?style=for-the-badge&logoColor=white" />](https://en.wikipedia.org/wiki/It_security)
+[<img alt="Cybersecurity" src="https://custom-icon-badges.demolab.com/badge/Cybersecurity-f20e0e?style=for-the-badge&logo=shield-lock&logoColor=white" />](https://en.wikipedia.org/wiki/It_security)
 
 </details>
 
